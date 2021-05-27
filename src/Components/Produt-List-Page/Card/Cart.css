@@ -1,0 +1,22 @@
+.main{
+    padding: 25px;
+    margin-left: 8rem;  
+}
+.cart{
+    margin: 15px;
+    border-radius: 15px;
+    width: auto;
+    border: 10px solid black;
+    box-shadow: 0 0 10px;
+    
+    
+}
+.product_image{
+    height: 300px;
+    /* width: 80%; */
+    /* object-fit: cover; */
+}
+.cart_button{
+    width: 100%;
+    margin-top: 10px;
+}

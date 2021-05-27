@@ -1,0 +1,17 @@
+/* .header-img{
+    width: 100%;
+    height: 100px;
+}
+.header-img{
+    width: 100%;
+    height: 100px; */
+    
+/* } */
+.watch{
+    object-fit: cover;
+}
+.icon{
+    color: white;
+    float: right;
+    margin-left: 76rem;
+}
